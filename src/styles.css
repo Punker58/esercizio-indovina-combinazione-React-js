@@ -1,0 +1,24 @@
+:root {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  margin: auto;
+  width: 70%;
+  padding: 5px;
+  font-size: 2.5vh;
+}
+
+.box {
+  border: 2px solid black;
+  margin: 5px;
+  white-space: pre-line;
+}
+
+.check58 {
+  width: 25px;
+  height: 20px;
+}
